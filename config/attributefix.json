@@ -33,17 +33,6 @@
         "value": 1024
       }
     },
-    "doggytalents:generic.crit_bonus": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "epicfight:weight": {
       "enabled": false,
       "min": {
@@ -64,6 +53,17 @@
       "max": {
         "default": 64,
         "value": 64
+      }
+    },
+    "doggytalents:generic.crit_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "epicfight:offhand_armor_negation": {
@@ -165,17 +165,6 @@
         "value": 1000000
       }
     },
-    "doggytalents:generic.jump_power": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "epicfight:execution_resistance": {
       "enabled": false,
       "min": {
@@ -185,6 +174,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "doggytalents:generic.jump_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "forge:entity_reach": {
